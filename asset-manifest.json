@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Airbnb-Experiences-Landing-Page/static/css/main.6c8ec7ae.css",
-    "main.js": "/Airbnb-Experiences-Landing-Page/static/js/main.8586536f.js",
-    "static/media/photo-grid.png": "/Airbnb-Experiences-Landing-Page/static/media/photo-grid.294d59b66b94e0e456cf.png",
-    "static/media/mountain-bike.png": "/Airbnb-Experiences-Landing-Page/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
-    "static/media/wedding-photography.png": "/Airbnb-Experiences-Landing-Page/static/media/wedding-photography.62dfa0af6d4f23912427.png",
-    "static/media/katie-zaferes.png": "/Airbnb-Experiences-Landing-Page/static/media/katie-zaferes.8c39a93af3d2de2b3c27.png",
-    "static/media/logo.png": "/Airbnb-Experiences-Landing-Page/static/media/logo.e4424517383d14a03a24.png",
-    "index.html": "/Airbnb-Experiences-Landing-Page/index.html",
-    "main.6c8ec7ae.css.map": "/Airbnb-Experiences-Landing-Page/static/css/main.6c8ec7ae.css.map",
-    "main.8586536f.js.map": "/Airbnb-Experiences-Landing-Page/static/js/main.8586536f.js.map"
+    "main.css": "/React-Airbnb-Experiences-Landing-Page/static/css/main.6c8ec7ae.css",
+    "main.js": "/React-Airbnb-Experiences-Landing-Page/static/js/main.d7439261.js",
+    "static/media/photo-grid.png": "/React-Airbnb-Experiences-Landing-Page/static/media/photo-grid.14184b26f8abd9fb5f24.png",
+    "static/media/mountain-bike.png": "/React-Airbnb-Experiences-Landing-Page/static/media/mountain-bike.3dca65135480c23cf582.png",
+    "static/media/wedding-photography.png": "/React-Airbnb-Experiences-Landing-Page/static/media/wedding-photography.f5597bd50d366cf63812.png",
+    "static/media/katie-zaferes.png": "/React-Airbnb-Experiences-Landing-Page/static/media/katie-zaferes.a35dcf32df7bdfd93ff7.png",
+    "static/media/logo.png": "/React-Airbnb-Experiences-Landing-Page/static/media/logo.e4424517383d14a03a24.png",
+    "index.html": "/React-Airbnb-Experiences-Landing-Page/index.html",
+    "main.6c8ec7ae.css.map": "/React-Airbnb-Experiences-Landing-Page/static/css/main.6c8ec7ae.css.map",
+    "main.d7439261.js.map": "/React-Airbnb-Experiences-Landing-Page/static/js/main.d7439261.js.map"
   },
   "entrypoints": [
     "static/css/main.6c8ec7ae.css",
-    "static/js/main.8586536f.js"
+    "static/js/main.d7439261.js"
   ]
 }
